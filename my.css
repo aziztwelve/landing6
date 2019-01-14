@@ -1,0 +1,32 @@
+.callback__img {
+    width: 160px;
+    margin-bottom: 10px;
+}
+
+.photo__zag {
+	margin-top: 26px;
+    line-height: 1.6em;
+	text-align: center;
+}
+
+.g__foto {
+
+}
+
+@media screen and (max-width: 1199px) {
+
+	.ipod {
+	 visibility: hidden;
+	display: none;
+	}
+	
+}
+
+@media screen and (max-width: 732px) {
+
+	.ipod {
+	 visibility: inherit;
+    display: block;
+	}
+	
+}
